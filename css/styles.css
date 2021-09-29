@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 150%;
+  background-color: #F6DFEB;
+}
+
+.top-container {
+  background-color: #F0D9FF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #F6DFEB;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Grechen Fuemen', cursive;
+  font-size: 5rem;
+  margin-bottom: 10px;
+  color: #7F7C82;
+}
+
+.javascript {
+  position: absolute;
+  top: 380px;
+  left: 300px;
+}
+
+.css {
+  position: absolute;
+  right: 390px;
+  top: 100px;
+}
+
+h2 {
+  color: #7F7C82;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #7027A0;
+  font-family: 'Verdana', sans-serif;
+}
+
+.profession {
+  color: #7F7C82;
+  font-size: 2rem;
+  margin-top: 10px;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.footer-link:link {
+  color: #664E88;
+  text-decoration: none;
+}
+
+.footer-link:visited {
+  color: #506D84;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #FF5C58;
+  text-decoration: none;
+}
+
+.graphics {
+  height: 25%;
+  width: 25%;
+  float: left;
+}
+
+.web {
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+
+.skill-graphics {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-web {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  margin-top: 20px;
+  background-color: #F6DFEB;
+  ;
+}
+
+.bottom-container {
+  background-color: #BFA2DB;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.graphics-description {
+  margin-left: 270px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.web-description {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.h3-first {
+  padding-left: 270px;
+}
+
+.btn {
+  background-color: #7027A0;
+  border-radius: 10px;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.btn:visited {
+  color: #F56FAD;
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: #6ECB63;
+}
+
+.dot-line {
+  color: #AC66CC;
+  width: 4%;
+  border-style: dotted;
+  border-width: 8px;
+  border-top: 0;
+}
+
+.contact-me {
+  padding-bottom: 40px;
+}
+
+.intro {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
